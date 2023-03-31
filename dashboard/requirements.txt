@@ -13,5 +13,5 @@ numpy==1.19.5
 pillow==8.2.0
 packaging==20.3
 typing_extensions>=3.7.4.1
-redis==3.4.1
+redis==4.4.4
 pyarrow==4.0.1
